@@ -1,0 +1,7 @@
+pyfirmata2
+pyserial
+onnxruntime
+soundfile
+scipy
+numpy
+huggingface_hub
